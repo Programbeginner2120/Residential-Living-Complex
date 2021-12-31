@@ -1,0 +1,1 @@
+# This is a compilation of all the materials that I used to create my semester long project for my course in Database Systems (ICSI 410) at The University at Albany, SUNY. The database models a residential living complex, a database which I conceived the idea of and built from the ground up using Microsoft SQL Server throughout the Fall 2020 semester.
